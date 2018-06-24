@@ -15,7 +15,7 @@ You can add existing Elastic Compute Service \(ECS\) instances to a created Kube
 
 1.   Log on to the [Container Service console](https://partners-intl.console.aliyun.com/#/cs%20%22Container%20Service%20console%22). 
 2.   Click Kubernetes \> **Clusters** in the left-side navigation pane. 
-3.   Click More at the right of the cluster**that you want to add ECS instances** \> **and then select Add Existing Instance from the drop-down list**. 
+3.   Click More at the right of the cluster **that you want to add ECS instances** \> **and then select Add Existing Instance from the drop-down list**. 
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/6884/4319_en-US.png)
 
