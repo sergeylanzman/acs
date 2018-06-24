@@ -94,7 +94,7 @@ spec:
 **Create OSS data volumes in Container Service console**
 
 1.  Log on to the [Container Service console](https://partners-intl.console.aliyun.com/#/cs).
-2.  Click Kubernetes \>**Clusters \>** \> **Storage**in the left-side navigation pane.
+2.  Click **Kubernetes** \>**Clusters** \>**Storage** in the left-side navigation pane.
 3.  Select the cluster from the Clusters drop-down list and then click **Create** in the upper-right corner.
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/6938/4683_en-US.png)
