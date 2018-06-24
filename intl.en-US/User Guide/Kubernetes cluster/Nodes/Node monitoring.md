@@ -14,7 +14,7 @@ Kubernetes clusters integrate with the Alibaba Cloud monitoring service seamless
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/6892/4361_en-US.png)
 
 
-To view the monitoring metrics in the operating system level, install the CloudMonitor component. For more information, see [../../../../dita-oss-bucket/SP\_64/DNCMS11863785/EN-US\_TP\_6150.md\#](../../../../reseller.en-US/User Guide/Host monitoring/Introduction to Host monitoring.md#).
+To view the monitoring metrics in the operating system level, install the CloudMonitor component. For more information, see [Introduction to Host monitoring](../../../../reseller.en-US/User Guide/Host monitoring/Introduction to Host monitoring.md#).
 
-Kubernetes clusters can now monitor resources by using application groups. For more information, see [EN-US\_TP\_6947.md\#](reseller.en-US/User Guide/Kubernetes cluster/Monitoring/Monitor resources and send alarm notifications by using resource groups.md#).
+Kubernetes clusters can now monitor resources by using application groups. For more information, see [Monitor resources and send alarm notifications by using resource groups](reseller.en-US/User Guide/Kubernetes cluster/Monitoring/Monitor resources and send alarm notifications by using resource groups.md#).
 
