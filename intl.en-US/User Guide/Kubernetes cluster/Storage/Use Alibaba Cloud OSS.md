@@ -17,7 +17,7 @@ You must create a bucket in the OSS console before using the OSS static storage 
 -   bucket: Currently, Container Service only supports mounting buckets and cannot mount the sub-directories or files under the bucket.
 -   url: The OSS endpoint, which is the access domain name for mounting OSS.
 -   akId: Your AccessKey ID.
--     akSecret: Your AccessKey Secret.
+-   akSecret: Your AccessKey Secret.
 -   otherOpts: Customized parameter input in the format of `-o *** -o ***` is supported when mounting OSS.
 
 ## Note {#section_gyz_ybt_vdb .section}
